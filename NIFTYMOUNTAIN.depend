@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1537843135 source:c:\users\alex\documents\ics4u comp sci\allegro example\allegroexample2.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<apvector.h>
+	<apmatrix.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1537850636 source:c:\users\alex\documents\ics4u comp sci\allegro example\niftymountain.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<apvector.h>
+	<apmatrix.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
